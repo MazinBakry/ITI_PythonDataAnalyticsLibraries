@@ -133,18 +133,19 @@ All nested JSON structures have been flattened into a single-level DataFrame, ma
 ## Visualizations
 
 ### Plot 1 – Top 10 Cities by User Count
-![[visuals/Top 10 Cities.png]]
+![visuals/Top 10 Cities.png](https://github.com/MazinBakry/ITI_PythonDataAnalyticsLibraries/blob/main/visuals/Top%2010%20Cities.png)
 
 ### Plot 2 – Number of Users Per Gender
-![[visuals/Users Per Gender.png]]
+![visuals/Users Per Gender.png](https://github.com/MazinBakry/ITI_PythonDataAnalyticsLibraries/blob/main/visuals/Users%20Per%20Gender.png)
 
 ### Plot 3 – Average Age by Gender
-![[visuals/Average Age by Gender.png]]
+![visuals/Average Age by Gender.png](https://github.com/MazinBakry/ITI_PythonDataAnalyticsLibraries/blob/main/visuals/Average%20Age%20by%20Gender.png)
 
 ### Plot 4 – Age vs Height
-![[visuals/Age vs Height.png]]
+![visuals/Age vs Height.png](https://github.com/MazinBakry/ITI_PythonDataAnalyticsLibraries/blob/main/visuals/Age%20vs%20Height.png)
+
 ### Plot 5 – Age vs Weight
-![[visuals/Age vs Weight.png]]
+![visuals/Age vs Weight.png](https://github.com/MazinBakry/ITI_PythonDataAnalyticsLibraries/blob/main/visuals/Age%20vs%20Weight.png)
 
 ---
 
